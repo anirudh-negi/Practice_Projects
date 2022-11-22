@@ -1,4 +1,4 @@
-//this programm is for adding dates to a particular date entered by the user for eg-user enters 03 14 2019 and days to add 50 then the output should be 04 23 2019.
+//this programm is for adding dates to a particular date entered by the user for eg-user enters 03 14 2019 and days to add 50 then the output should be 04 23 2019..
 
 
 #include <stdio.h>
